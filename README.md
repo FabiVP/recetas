@@ -1,1 +1,2 @@
 "# recetas" 
+## construccion de software
